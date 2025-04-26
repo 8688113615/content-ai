@@ -27,24 +27,7 @@ const Login: React.FC = () => {
         <div className="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
           <LoginForm />
           
-          <div className="mt-6">
-            <div className="relative">
-              <div className="absolute inset-0 flex items-center">
-                <div className="w-full border-t border-gray-300" />
-              </div>
-              <div className="relative flex justify-center text-sm">
-                <span className="px-2 bg-white text-gray-500">Demo accounts</span>
-              </div>
-            </div>
-
-            <div className="mt-6 grid grid-cols-1 gap-3">
-              <div className="rounded-md bg-gray-50 p-2 text-sm">
-                <p><strong>Admin:</strong> admin@example.com</p>
-                <p><strong>User:</strong> user@example.com</p>
-                <p className="mt-1 text-xs text-gray-500">No password needed for demo</p>
-              </div>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>
