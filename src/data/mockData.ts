@@ -6,14 +6,14 @@ export const mockUsers: User[] = [
     name: 'Admin User',
     email: 'admin@example.com',
     role: 'admin',
-    avatarUrl: 'https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=150'
+    avatarUrl: 'https://static.vecteezy.com/system/resources/previews/002/318/271/original/user-profile-icon-free-vector.jpg'
   },
   {
     id: 'user-2',
     name: 'Core User',
     email: 'user@example.com',
     role: 'core',
-    avatarUrl: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150'
+    avatarUrl: 'https://static.vecteezy.com/system/resources/previews/002/318/271/original/user-profile-icon-free-vector.jpg'
   }
 ];
 
